@@ -1,0 +1,7 @@
+C:\Users\Chet\Dropbox\Code\School\Graphical Application Development (Summer 2014)\ChildsToy_COP4367\ChildsToy_COP4367\ChildsToy_COP4367\bin\Release\ChildsToy_COP4367.exe
+C:\Users\Chet\Dropbox\Code\School\Graphical Application Development (Summer 2014)\ChildsToy_COP4367\ChildsToy_COP4367\ChildsToy_COP4367\bin\Release\ChildsToy_COP4367.pdb
+C:\Users\Chet\Dropbox\Code\School\Graphical Application Development (Summer 2014)\ChildsToy_COP4367\ChildsToy_COP4367\ChildsToy_COP4367\obj\x86\Release\ChildsToy_COP4367.Form1.resources
+C:\Users\Chet\Dropbox\Code\School\Graphical Application Development (Summer 2014)\ChildsToy_COP4367\ChildsToy_COP4367\ChildsToy_COP4367\obj\x86\Release\ChildsToy_COP4367.Properties.Resources.resources
+C:\Users\Chet\Dropbox\Code\School\Graphical Application Development (Summer 2014)\ChildsToy_COP4367\ChildsToy_COP4367\ChildsToy_COP4367\obj\x86\Release\ChildsToy_COP4367.csproj.GenerateResource.Cache
+C:\Users\Chet\Dropbox\Code\School\Graphical Application Development (Summer 2014)\ChildsToy_COP4367\ChildsToy_COP4367\ChildsToy_COP4367\obj\x86\Release\ChildsToy_COP4367.exe
+C:\Users\Chet\Dropbox\Code\School\Graphical Application Development (Summer 2014)\ChildsToy_COP4367\ChildsToy_COP4367\ChildsToy_COP4367\obj\x86\Release\ChildsToy_COP4367.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stock Plotter", "Graphing Demo\Stock Plotter.csproj", "{BBC37035-6C39-48C3-AB8F-B7599903D68C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBC37035-6C39-48C3-AB8F-B7599903D68C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC37035-6C39-48C3-AB8F-B7599903D68C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC37035-6C39-48C3-AB8F-B7599903D68C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC37035-6C39-48C3-AB8F-B7599903D68C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
